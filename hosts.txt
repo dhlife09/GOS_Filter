@@ -1,0 +1,5 @@
+# GOS_Filter
+#
+# https://github.com/dhlife09/GOS_Filter
+
+0.0.0.0 gos-api.gos-gsp.io
